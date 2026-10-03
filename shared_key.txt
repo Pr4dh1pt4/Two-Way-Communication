@@ -1,0 +1,4 @@
+# Pre-shared key DES (8 byte = 16 karakter hex).
+# File ini harus SAMA di kedua peer dan dibagikan di luar jaringan (offline).
+# Key ini TIDAK PERNAH dikirim lewat jaringan.
+133457799BBCDFF1
